@@ -12,9 +12,9 @@ However, finding good slides is difficult. This repository should hopefully solv
 
 ## Contributing
 
-Thanks for wanting to contribute. There's just a few rules that we have for slides we accept:
+Thanks for wanting to contribute. There's just a few rules that we have for slides in this list:
 
-- They must not violate the [Major League Hacking][mlh-coc].
+- They must not violate the [Major League Hacking Code of Conduct][mlh-coc].
 - They must have at least 15 slides, and no more than 75 slides.
 - They must not contain more than 75% text. Text-heavy slides don't work.
 - They must be available for public use. A good place to find slides is [Slideshare][slideshare].
