@@ -10,7 +10,9 @@ However, finding good slides is difficult. This repository should hopefully solv
 | ---------- | ----- | -------- |
 | [8 Things To Do Before You Manage Your Boss](https://www.slideshare.net/wiley/slideshare-8-things-to-do-before-you-manage-your-boss) | Management | [@bih](https://github.com/bih) |
 | [PHP Doesn't Suck](https://www.slideshare.net/jmhobbs/php-doesnt-suck?qid=f86a8d4b-315d-469c-9d25-7975bd0caebe) | Programming Languages | [@bih](https://github.com/bih) |
+| [Random Walks in the Sky](http://www.cosmo-ufes.org/uploads/1/3/7/0/13701821/vitoria2014.pdf) | Theoretical Cosmology | [@jpbreuer](https://github.com/jpbreuer) |
 | [Who and What](https://www.slideshare.net/georgemelendez/questions-with-who-72442769?qid=c6e696e1-62f9-4563-be58-775a17641e0b) | Random | [@bih](https://github.com/bih) |
+
 
 ## Contributing
 
