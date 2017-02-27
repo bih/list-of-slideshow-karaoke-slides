@@ -6,7 +6,9 @@ However, finding good slides is difficult. This repository should hopefully solv
 
 ## List of Slides
 
-See all of the list of good slides at [SLIDES.md][slides].
+| Slide Name | Topic | Added By |
+| ---------- | ----- | -------- |
+| [Who and What](https://www.slideshare.net/georgemelendez/questions-with-who-72442769?qid=c6e696e1-62f9-4563-be58-775a17641e0b) | Random | [@bih](https://github.com/bih) |
 
 ## Contributing
 
@@ -16,6 +18,7 @@ Thanks for wanting to contribute. There's just a few rules that we have for slid
 - They must have at least 15 slides, and no more than 75 slides.
 - They must not contain more than 75% text. Text-heavy slides don't work.
 - They must be available for public use. A good place to find slides is [Slideshare][slideshare].
+- When creating a PR to add your slide to the list, please add them alphabetically.
 
 What makes a funny set of slides for Slideshow Karaoke?
 
