@@ -1,5 +1,7 @@
 # List of Slideshow Karaoke Slides
 
+*This is no longer maintained. Feel free to fork this repository.*
+
 At many hackathons and events around the world, we play a game that's known as [Slideshow Karaoke][wikipedia]. It also goes by the name Powerpoint-Karaoke or Battle Decks. Basically, an audience watches a person present a random set of slides that they have never seen before, often with the slides being controlled by someone else. It's a lot of fun, with plenty of laughter and improvisation.
 
 However, finding good slides is difficult. This repository should hopefully solve that.
