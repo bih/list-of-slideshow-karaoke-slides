@@ -15,6 +15,7 @@ However, finding good slides is difficult. This repository should hopefully solv
 | [Random Walks in the Sky](http://www.cosmo-ufes.org/uploads/1/3/7/0/13701821/vitoria2014.pdf) | Theoretical Cosmology | [@jpbreuer](https://github.com/jpbreuer) |
 | [Soylent Blockchains](https://www.slideshare.net/SteveWaldman/soylent-blockchains) | Random | [@kuboschek](https://github.com/kuboschek) |
 | [Who and What](https://www.slideshare.net/georgemelendez/questions-with-who-72442769?qid=c6e696e1-62f9-4563-be58-775a17641e0b) | Random | [@bih](https://github.com/bih) |
+| [Brexit and beyond](https://www.slideshare.net/abusch10/brexit-and-beyond-how-uk-can-upset-the-global-economy) | Politics | [@pandelisz](https://github.com/pandelisz) |
 
 
 ## Contributing
